@@ -8,14 +8,16 @@ Interview with Cristina Sánchez Martín for [Hoja de Router](http://www.eldiari
 Q: I have read that you have founded SFPC with Zach Lieberman, Amit Pitaru and Jen Low. How did you meet each other and how did you decide to create a school for being a coder and a poet at the same time? What are your contribution to the courses? 
 
 
-A: I have been interested in models of alternative educations and critical pedagogy for some time. my interest lead to various artistic and activist activities such as participating in the committee for The Public school New York, an open source and free and horizontal school run by volunteers. I got to know Zach Lieberman first while we were doing artist residency at Eyebeam. Zach, Amit Pitaru and Jen Lowe were thinking about better ways of teaching as well. We began to collaborate on making new school for art and technology. We had a similar passion and were able to jump start the school from scratch in a matter of months. 
+A: I have been interested in models of alternative educations and critical pedagogy for some time. my interest lead to various artistic and activist activities such as participating in the committee for [The Public School New York](http://nyc.thepublicschool.org), an open source and free and horizontal school run by volunteers. I got to know Zach Lieberman first while we were doing artist residency at [Eyebeam](http://eyebeam.org). Zach, Amit Pitaru and Jen Lowe were thinking about better ways of teaching as well. 
+
+We began to collaborate on making new school for art and technology. We had a similar passion and were able to jump start the school from scratch in a matter of months. 
 Since then, a growing members constitute the Steering committee, a group of teachers and alumni who make decisions as a group and decide on important aspects of the school. 
 
 Q: If I'm not wrong, the school focus in teaching code, theory and hardware, but the classes are unconventional and 'best students are the best teachers'. What is the philosophy of the school? In which way the classes are unconventional?
 
 A: One of the core philosophy is that this is a school for practitioner as well as educators. we think the best way to learn is to teach someone what you are excited about. This breaks the conventional teacher and student mode and actively engages everyone. We focus on empowering students through collaboration and mentorship. 
 
-Q: I have watched that new students have to make a binary number game, why is important this first exercise?
+Q: I have watched that new students have to make a [binary number game](https://vimeo.com/86799888), why is important this first exercise?
 
 A: Binary numbers are the fundamental building block for computation. It's the DNA of any code and hardware. 
 
@@ -34,7 +36,7 @@ A: There's usually two to three hours of class every day. In extra times student
 
 Q: I have watched some of the final projects. There are code poems, bots, interactive installations thanks to platforms like Arduino... What other kind of projects you have developed? What are the events, projects or lessons you are most proud of?
 
-A: Talking by Ishac Betran and Jon Wohl, Programmable human by Anastasis Germandis, Tasting by Simona de rosa.  
+A: Ishac Bertran and Jon Wohl who are making amazing projects like [Talking](http://talking.jonwohl.com/), [Programmable human](https://github.com/agermanidis/Welcome_Programmable_Human) by Anastasis Germandis [video](https://vimeo.com/132894825), [Tasted](http://www.simona-derosa.com/works/#/tasted/) by Simona de rosa, but all of our students are special to us.   
 
 Q: I have read that one of [your advice](https://medium.com/@tchoi8/somethings-i-wish-someone-told-me-when-i-began-to-make-art-9ea65b088188) for the artists is starting a community of their own. Have some students created a community after their courses in SFPC? 
 
@@ -42,7 +44,7 @@ A: Yes. A multiple actually. [School of MA](http://schoolofma.org/) in Berlin an
 
 Q: You are going to start  a summer session on code poetry next week. Are you preparing some different materials for this special course?  
 
-A: Yes. We are working on with new teachers and specific topic. Nick Montfort is teaching for the first time and he's bringing a great resource on code poetry.
+A: Yes. We are working on with new teachers and specific topic. Nick Montfort is teaching for the first time and he's bringing a great resource on code poetry. [More info](http://sfpc.io/summer2015/)
 
 
 # Second interview 8/7/2015 
@@ -55,7 +57,7 @@ Right now, we are finishing a two weeks session on Code Poetry, focusing on the 
 
 Q:  I have watched that most of the students have their own [blog](http://blog.sfpc.io/). Do you recommend to write their experiences at school? 
  
-A: Yes, it's very important they keep record of their learning and questions. We celebrate the process more than the final project. Thus, More Poetry, Less Demo! Current session is keeping daily blogs on http://blog.sfpc.io/  Also check out [instagram](https://instagram.com/sfpc_nyc/)
+A: Yes, it's very important they keep record of their learning and questions. We celebrate the process more than the final project. Thus, More Poetry, Less Demo! Current session is keeping daily blogs. Also check out [instagram](https://instagram.com/sfpc_nyc/)
 
 Q: Do students choose their own final projects? In which way do you collaborate with them to develop these projects? 
 
@@ -65,4 +67,4 @@ Q: And finally, how do you define the environment of the school? What are the th
 
 A: I think it's an ideal place for people to try new ideas, learn something new and get encouraged from likeminded people. It's also a place where teachers try out new teaching material. We are small and flexible enough to accommodate experimental classes. 
 
-I'm mostly proud when students go on to make their own school, teach at other schools or continue to collaborate with another students. We have few success stories like [School of MA](http://schoolofma.org/) in Berlin and also Ishac Bertran and Jon Wohl who are making amazing projects like [Talking](http://talking.jonwohl.com/). Also I'm proud to invite students to come back to teach at SFPC. We often work with alumni as the organizing team and and also teacher. 
+I'm mostly proud when students go on to make their own school, teach at other schools or continue to collaborate with another students. We have few success stories like School of MA in Berlin as well as students teaching in universities.  Also I'm proud to invite students to come back to teach at SFPC. We often work with alumni as the organizing team and and also teacher. 
